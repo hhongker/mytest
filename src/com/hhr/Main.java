@@ -9,6 +9,7 @@ public class Main {
 
         System.out.println(31);
         System.out.println(31);
+
         System.out.println(2313);
 //        房贷首付
     }
