@@ -7,7 +7,7 @@ public class Main {
         System.out.println("yuancheng leval2");
 
 
-
+        System.out.println(2313);
 //        房贷首付
     }
 }
